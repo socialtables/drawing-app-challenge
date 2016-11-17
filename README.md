@@ -49,7 +49,7 @@ You will also see any lint errors in the console.
 **Can I copy code from the Internet?**  
 You must cite any outside resources you use in your work (for example, using comments to denote a snippet obtained from Stack Overflow).  
 
-**Can I post my solution to the Internet/GitHub**  
+**Can I post my solution to the Internet/GitHub?**  
 We ask that you don't. It makes it much harder to evaluate submissions when a completed solution is available for review.
 
 **Can I copy someone else's submission, cite it, and submit?**  
