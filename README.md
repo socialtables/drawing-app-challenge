@@ -56,13 +56,13 @@ We ask that you don't. It makes it much harder to evaluate submissions when a co
 No.
 
 **Can I submit without completing all the challenge?**  
-Yes.
+Absolutely! Do as much as you can.
 
 **What is the status of my application?**  
 Email <internchallenge@socialtables.com>.
 
 **I see a typo.**  
-Submit a pr.
+Submit a pull request.
 
 **I still have a question.**  
 Submit a Github issue.
