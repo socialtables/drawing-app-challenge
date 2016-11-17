@@ -16,7 +16,7 @@ Given a tool & brush size selector, build as many of these additional components
 * Reset: a button that wipes the entire canvas clean so you can make a new drawing.
 * Save: a button that will take what you've drawn in the canvas and open it as an image in another tab so you can save it.
 
-Also you'll need to style the sidebar so it looks as close to this image as possible.
+Also you'll need to style the sidebar so it looks as close to this image as possible. **Clean, maintainable, and organized (S)CSS is an important part of your submission!**
 ![Design](/public/img/design.png?raw=true "Design")
 
 It only needs to work in the latest Chrome & Firefox.
