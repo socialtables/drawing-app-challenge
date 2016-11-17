@@ -1,12 +1,14 @@
 # Social Tables Front End Intern Challenge
-Thanks for your interest in the Social Tables Intern Program!  We ask that you build a few features for a drawing app as part of your application process.
+Thanks for your interest in the Social Tables Intern Program! 
+
+Social Tables engineering is looking for an intern!  The position is a great opportunity to learn and grow on a fantastic team working with fun, exciting tech. Your task, should you choose to accept it, is to build out some features for a React/Redux drawing app. Women, LGBTQ+ and people of color are encouraged to apply!
 
 ## The App
 The app is a React/Redux app which lets you draw on a `<canvas>` element with different brush sizes.
 
 ## The Challenge
 
-We gotta make this app more fun!
+We need to make our drawing app more fun!
 Given a tool & brush size selector, build as many of these additional components as you can:
 * Colorpicker: a component that lets you pick a color to draw. The built in HTML color input will be fine here.
 * Image stamp: a place for you to upload an image and pop it in the drawing area like so. The image stamp component should give you a preview of the image uploaded. It should function like this: ![Image Stamp Tool](/public/img/stamp.gif?raw=true "Image Stamp Tool")
