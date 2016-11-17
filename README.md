@@ -29,7 +29,8 @@ These files will contain:
 * The YourInitials-readme.{md, txt} contains instructions for running your code and any notes you wish to include.
 * The YourInitials-code.{tar.gz, zip} contains your code. You can optionally also submit a link to your code in the readme file.
 * A file named YourInitials-resume.pdf containing your resume.
-* Submitting your node-modules folder isn't necessary, for example, because we can get it by running npm install; however, you should at least submit any files you found necessary to change and enough support and explanation so we can reproduce your results. In any case, include all the information in YourInitials-readme.{md, txt}.
+
+Submitting your node-modules folder isn't necessary, for example, because we can get it by running npm install; however, you should at least submit any files you found necessary to change and enough support and explanation so we can reproduce your results. In any case, include all the information in YourInitials-readme.{md, txt}.
 
 ## Getting started
 
@@ -42,3 +43,26 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
+
+## FAQ
+
+**Can I copy code from the Internet?**  
+You must cite any outside resources you use in your work (for example, using comments to denote a snippet obtained from Stack Overflow).  
+
+**Can I post my solution to the Internet/GitHub?**  
+We ask that you don't. It makes it much harder to evaluate submissions when a completed solution is available for review.
+
+**Can I copy someone else's submission, cite it, and submit?**  
+No.
+
+**Can I submit without completing all the challenge?**  
+Yes.
+
+**What is the status of my application?**  
+Email <internchallenge@socialtables.com>.
+
+**I see a typo.**  
+Submit a pr.
+
+**I still have a question.**  
+Submit a Github issue.
