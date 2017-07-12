@@ -34,7 +34,7 @@ These files will contain:
     * **Brief answers to the following questions**:
         1. What aspect of your submission are you most proud of, and why?
         1. What would you work on if you had more time?  
-        1. What resources were most helpful? 
+        1. Of all the resources (blog posts, tutorials, videos, etc.) you referenced, what was most helpful for you?
 * `YourInitials-code.{tar.gz, zip}` with your code.
     * Submitting your `node-modules` folder isn't necessary, because we can get it by running `npm install`
     * You should submit any files you found necessary to change and enough support and explanation so we can reproduce your results. In any case, include all the information in `YourInitials-readme.{md, txt}`.
