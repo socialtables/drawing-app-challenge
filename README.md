@@ -78,7 +78,7 @@ No.
 Absolutely! Do as much as you can, seriously. Use your `README.md` to document where you ended up. 
 
 **What is the status of my application?**  
-Email [internchallenge@socialtables.com](mailto:internchallenge@socialtables.com).
+Email [apprenticechallenge@socialtables.com](mailto:apprenticechallenge@socialtables.com).
 
 **I see a typo.**  
 Submit a pull request!
