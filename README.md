@@ -5,12 +5,9 @@ Thanks for your interest in the Social Tables Apprentice Program!
 
 Your task, should you choose to accept it, is to build out some features for a React/Redux drawing app. Women, LGBTQ+ and people of color are encouraged to apply!
 
-We will have two waves of applications. The coding challenge is the same for both.
+- **Submissions are due by August 11th.**
 
-- **Wave I submissions are due by August 4th.**
-- **Wave II submissions are due by September 1st.**
-
-If you successfully complete the coding challenge there will be a phone screen and potential on-site interview.  Our goal is to start apprentices three weeks after each wave's deadline. We have some flexibility on start date to accommodate your schedule.*
+If you successfully complete the coding challenge there will be a phone screen and potential on-site interview.  Our goal is for apprentices to begin onboarding three weeks after the deadline. We have some flexibility on start date to accommodate your schedule.
 
 ## The App
 The app is a React/Redux app which lets you draw on a `<canvas>` element with different brush sizes.
@@ -31,7 +28,7 @@ You'll also need to style the sidebar so it looks as close to this image as poss
 It only needs to work in the latest versions of Chrome & Firefox.
 
 ## How to submit
-Send all your files in one email to [internchallenge@socialtables.com](mailto:internchallenge@socialtables.com) with the subject line: `Social Tables Venue Mapper Intern Challenge`.
+Send all your files in one email to [apprenticechallenge@socialtables.com](mailto:apprenticechallenge@socialtables.com) with the subject line: `Social Tables Apprentice Challenge`.
 
 These files will contain:
 
