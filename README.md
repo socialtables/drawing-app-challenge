@@ -1,27 +1,34 @@
 # Social Tables Front End Apprentice Challenge
 Thanks for your interest in the Social Tables Apprentice Program! 
 
-Social Tables engineering is looking for apprentices! The position is a great opportunity to learn and grow on a fantastic team working with fun, exciting tech. 
+[Social Tables](https://www.socialtables.com/) engineering is looking for apprentices! The position is a great opportunity to learn and grow on a fantastic team working with fun, exciting tech.
 
 Your task, should you choose to accept it, is to build out some features for a React/Redux drawing app. Women, LGBTQ+ and people of color are encouraged to apply!
+
+We will have two waves of applications. The coding challenge is the same for both.
+
+- **Wave I submissions are due by August 4th.**
+- **Wave II submissions are due by September 1st.**
+
+If you successfully complete the coding challenge there will be a phone screen and potential on-site interview.  Our goal is to start apprentices three weeks after each wave's deadline. We have some flexibility on start date to accommodate your schedule.*
 
 ## The App
 The app is a React/Redux app which lets you draw on a `<canvas>` element with different brush sizes.
 
 ## The Challenge
 
-We need to make our drawing app more fun!
+We need to make our drawing app more fun and functional!
 Given a tool & brush size selector, build as many of these additional components as you can:
-- [ ] Colorpicker: a component that lets you pick a color to draw. The built in HTML color input will be fine here.
-- [ ] Image stamp: a place for you to upload an image and pop it in the drawing area like so. The image stamp component should give you a preview of the image uploaded. It should function like this: ![Image Stamp Tool](/public/img/stamp.gif?raw=true "Image Stamp Tool")
-- [ ] Eraser: a tool to erase what you've drawn. Hint: there is a particular color that makes for a great eraser.
-- [ ] Reset: a button that wipes the entire canvas clean so you can make a new drawing.
-- [ ] Save: a button that will take what you've drawn in the canvas and open it as an image in another tab so you can save it.
+- [ ] **Colorpicker:** a component that lets you pick a color to draw. The built in HTML color input will be fine here.
+- [ ] **Image stamp:** a place for you to upload an image and pop it in the drawing area like so. The image stamp component should give you a preview of the image uploaded. It should function like this: ![Image Stamp Tool](/public/img/stamp.gif?raw=true "Image Stamp Tool")
+- [ ] **Eraser:** a tool to erase what you've drawn. Hint: there is a particular color that makes for a great eraser.
+- [ ] **Reset:** a button that wipes the entire canvas clean so you can make a new drawing.
+- [ ] **Save:** a button that will take what you've drawn in the canvas and open it as an image in another tab so you can save it.
 
 You'll also need to style the sidebar so it looks as close to this image as possible. **Clean, maintainable, and organized (S)CSS is an important part of your submission!**
 ![Design](/public/img/design.png?raw=true "Design")
 
-It only needs to work in the latest Chrome & Firefox.
+It only needs to work in the latest versions of Chrome & Firefox.
 
 ## How to submit
 Send all your files in one email to [internchallenge@socialtables.com](mailto:internchallenge@socialtables.com) with the subject line: `Social Tables Venue Mapper Intern Challenge`.
@@ -34,7 +41,7 @@ These files will contain:
     * **Brief answers to the following questions**:
         1. What aspect of your submission are you most proud of, and why?
         1. What would you work on if you had more time?  
-        1. Of all the resources (blog posts, tutorials, videos, etc.) you referenced, what was most helpful for you?
+        1. Of all the resources (blog posts, tutorials, videos, mentors etc.) you referenced, what was most helpful for you?
 * `YourInitials-code.{tar.gz, zip}` with your code.
     * Submitting your `node-modules` folder isn't necessary, because we can get it by running `npm install`
     * You should submit any files you found necessary to change and enough support and explanation so we can reproduce your results. In any case, include all the information in `YourInitials-readme.{md, txt}`.
