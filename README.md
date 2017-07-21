@@ -28,7 +28,7 @@ You'll also need to style the sidebar so it looks as close to this image as poss
 It only needs to work in the latest versions of Chrome & Firefox.
 
 ## How to submit
-Send all your files in one email to [apprenticechallenge@socialtables.com](mailto:apprenticechallenge@socialtables.com) with the subject line: `Social Tables Apprentice Challenge`.
+Send a link to all of your files hosted by your favorite cloud provider to [apprenticechallenge@socialtables.com](mailto:apprenticechallenge@socialtables.com) with the subject line: `Social Tables Apprentice Challenge`.
 
 These files will contain:
 
