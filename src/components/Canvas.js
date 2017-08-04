@@ -56,7 +56,16 @@ export default class Canvas extends Component {
 		if (this.isDrawing) {
 			ctx.lineTo(this.getX(event), this.getY(event));
 			ctx.lineWidth = this.getStroke();
-			ctx.strokeStyle = this.getColor();
+			switch (this.props.tools.tool){
+				case ERASER:
+                    ctx.strokeStyle = '#ffffff';
+                    break;
+				case BRUSH:
+                    ctx.strokeStyle = this.getColor();
+                    break;
+				default:
+					return null;
+            }
 			ctx.lineCap = "round";
 			ctx.lineJoin = "round";
 			ctx.stroke();
