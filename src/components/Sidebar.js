@@ -10,22 +10,23 @@ export default class Sidebar extends Component {
 		const { brush_color } = tools;
 		return (
 			<div className="sidebar">
-				<section className="section section--tool-selector">
+				<section className="section section--tool-selector pad-1em">
 					<h3 className="section__heading">Tool</h3>
 					<ToolSelector
 						tool={ tools.tool }
 						action={ actions.selectTool }
 					/>
 				</section>
-
-				<section className="section section--brush-size">
+				<hr className="slate-border"/>
+				<section className="section section--brush-size pad-1em">
 					<h3 className="section__heading">Brush Size</h3>
 					<BrushSize
 						brush_size={ brush_size }
 						action={ actions.changeSize }
 					/>
 				</section>
-				<section className="section section--brush-color">
+				<hr className="slate-border"/>
+				<section className="section section--brush-color pad-1em">
 					<h3 className="section__heading">Brush Color</h3>
 					<BrushColor
 						brush_color={ brush_color }

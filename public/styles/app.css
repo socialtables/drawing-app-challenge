@@ -17,16 +17,24 @@
 }
 .sidebar {
 	position: fixed;
-	top:0;
+	top: 0;
 	right: 0;
 	height: 100vh;
 	background-color: #CB5599;
 	/*background-color: #263238;*/
 }
+.slate-border {
+	border: .1em solid #43373e;
+}
 .section {
 	min-height: 100px;
 	width: 100%;
 	color: white;
+}
+
+/* Spacing Styles*/
+.pad-1em {
+	padding: 0 1em;
 }
 
 /* Candidate defined styles go here! */
