@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import ToolSelector from "./ToolSelector";
 import BrushSize from "./BrushSize";
 import BrushColor from "./BrushColor";
+import Save from "./Save";
 
 export default class Sidebar extends Component {
 	render() {
@@ -31,6 +32,13 @@ export default class Sidebar extends Component {
 					<BrushColor
 						brush_color={ brush_color }
 						action={ actions.changeColor }
+					/>
+				</section>
+				<hr className="slate-border"/>
+				<section className="section section--save-image pad-1em">
+					<h3 className="section__heading">Save</h3>
+					<Save
+						action={ actions.saveImage }
 					/>
 				</section>
 			</div>
