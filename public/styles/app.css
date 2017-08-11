@@ -4,6 +4,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	font-family: 'Open Sans', sans-serif;
+	color: #43373e;
 }
 .app {
 	height: 100vh;
@@ -17,16 +18,33 @@
 }
 .sidebar {
 	position: fixed;
-	top:0;
+	top: 0;
 	right: 0;
 	height: 100vh;
 	background-color: #CB5599;
 	/*background-color: #263238;*/
 }
+.slate-border {
+	border: .1em solid #43373e;
+}
+.save-btn {
+	font-size: 1em;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: .2em;
+	border: .05em solid white;
+	margin-top: .25em;
+}
 .section {
 	min-height: 100px;
 	width: 100%;
 	color: white;
+}
+
+/* Spacing Styles*/
+.pad-1em {
+	padding: .5em 1em;
 }
 
 /* Candidate defined styles go here! */

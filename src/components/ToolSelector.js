@@ -7,24 +7,24 @@ export default function ToolSelector(props) {
 		<div>
 			<div className="radio">
 				<input type="radio" name="tool" id="brush-select"
-					value={BRUSH} 
-					checked={tool === BRUSH} 
+					value={BRUSH}
+					checked={tool === BRUSH}
 					onChange={ (e) => { action(e.target.value) } } />
 				<label htmlFor="brush-select">Brush</label>
 			</div>
 
 			<div className="radio">
 				<input type="radio" name="tool" id="stamp-select"
-					value={STAMP} 
-					checked={tool === STAMP} 
+					value={STAMP}
+					checked={tool === STAMP}
 					onChange={ (e) => { action(e.target.value) } } />
 				<label htmlFor="stamp-select">Stamp</label>
 			</div>
 
 			<div className="radio">
 				<input type="radio" name="tool" id="eraser-select"
-					value={ERASER} 
-					checked={tool === ERASER} 
+					value={ERASER}
+					checked={tool === ERASER}
 					onChange={ (e) => { action(e.target.value) } } />
 				<label htmlFor="eraser-select">Eraser</label>
 			</div>
